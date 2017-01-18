@@ -1,5 +1,6 @@
 # SearchAlgos
-Project	description
+Project	description:
+
 The	 Los	Angeles	 Lakers	are	 playing	against	 their	 rivals	 the	Boston	Celtics	 tonight.		 Lakers	 star	
 Jordan	Clarkson wants	to	arrive	earlier	today	to	prepare	himself	for	the	game,	and	he	is	leaving	
 from	 his	 mansion	 at	 Newport	 Coast	 to	 Staples	 Center.	 	 As	 everyone	 knows,	 Los	 Angeles	 is	
